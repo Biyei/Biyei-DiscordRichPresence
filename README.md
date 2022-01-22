@@ -7,7 +7,7 @@ Config.lua
 ```sh
 
 -- Discord App
-Config.DiscordAppID = 12345 -- 931764168703479848
+Config.DiscordAppID = 12345 -- 913764568763477848 Example
 
 
 -- Assets Images
