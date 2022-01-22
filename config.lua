@@ -12,7 +12,7 @@ Config = {}
 
 
 -- Discord App
-Config.DiscordAppID = 934436223924195338 
+Config.DiscordAppID = 1234567890 -- 913436223924195338
 
 
 -- Assets Images
