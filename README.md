@@ -1,8 +1,10 @@
 # Biyei-DiscordRichPresence
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://discord.gg/PnDGu92dnD)
 
 Config.lua
+
+```sh
 
 -- Discord App
 Config.DiscordAppID = 12345 -- 931764168703479848
@@ -39,3 +41,5 @@ Config.Button2URL = ""
 -- Update Time para Random o para actualizar el Rich cada cierto tiempo
 
 Config.UpdateTime = 10000  -- 10000 = 10 segundos | Cada 1000 = 1 Segundo
+
+```
