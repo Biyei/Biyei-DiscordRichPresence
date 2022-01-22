@@ -1,6 +1,6 @@
 # Biyei-DiscordRichPresence
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://discord.gg/PnDGu92dnD)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://dsc.gg/biyei)
 
 Config.lua
 
