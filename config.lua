@@ -39,9 +39,9 @@ Config.DiscordRich4 = "Text 1 Random"
 -- Buttons
 Config.ButtonsEnabled = true
 Config.Button1 = "💎 UNIRSE AL SERVIDOR 💎"
-Config.Button1URL = ""
+Config.Button1URL = "fivem://connect/cfx.re/join/tujoin"
 Config.Button2 = "👽 UNIRSE AL DISCORD 👽"
-Config.Button2URL = ""
+Config.Button2URL = "https://dsc.gg/biyei"
 
 -- Update Time para Random o para actualizar el Rich cada cierto tiempo
 
